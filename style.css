@@ -1,0 +1,8 @@
+.link{
+    color:red;
+    font-family: monospace;
+}
+
+.link:hover {
+    color: yellowgreen;
+}
